@@ -10,13 +10,9 @@ int main() {
     int energyDrinkCustomers = TOTAL_CUSTOMERS * ENERGY_DRINK_PERCENT;
     int citrusCustomers = energyDrinkCustomers * CITRUS_PERCENT;
 
+    cout << "Customers who purchase energy drinks: " << energyDrinkCustomers << endl;
+    cout << "Customers who prefer citrus energy drinks: " << citrusCustomers << endl;
 
+    return 0;
 
-
-
-
-
-        return 0;
-
-    }
-    return 0;}
+}
