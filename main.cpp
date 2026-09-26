@@ -1,3 +1,5 @@
+// This program estimates energy drink purchasing preferences from survey data.
+
 #include <iostream>
 using namespace std;
 
